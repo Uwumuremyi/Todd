@@ -1,12 +1,9 @@
 div {
-  width: 200px;
-  height: 200px;
-  border: 1px solid blue;
-  border-radius: 100%;
-  background-image: url("dog.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  border-radius: 10px;
+  display: inline-block;
 
 img {
   border: 10px groove orangered;
